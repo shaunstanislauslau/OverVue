@@ -20,7 +20,7 @@
     "@quasar/extras": "^1.0.0",
     "aws-amplify": "^1.1.30",
     "aws-amplify-vue": "^0.2.13",
-    "aws-appsync": "^1.8.1",
+    "aws-appsync": "^4.1.9",
     "lodash": ">=4.17.13",
     "fs-extra": "^8.1.0",
     "localforage": "^1.7.3",
